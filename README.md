@@ -7,24 +7,39 @@ I'm a Hybrid Engineer specializing in the **non-coding side of software engineer
 ### 🎨 Design & Visual Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,framer,spline" />
+  <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=framer" width="50" alt="Framer">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spline" width="50" alt="Spline">
 </p>
 
 ### ⚙️ Automation & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=n8n,supabase" />
+  <img src="https://skillicons.dev/icons?i=n8n" width="50" alt="n8n">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" width="50" alt="Supabase">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=xano" width="50" alt="Xano">
 </p>
 
 ### 🧰 Tools & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux">
 </p>
 
 ### 📚 Currently Learning
 
-Cloud Engineering • DevOps • Linux • Docker • Automation • Git/GitHub
+**Cloud Engineering** • **DevOps** • **Linux** • **Docker** • **Automation** • **Git/GitHub**
+
 
 > **“The fear of the Lord is the beginning of wisdom.”** — Proverbs 9:10
 
