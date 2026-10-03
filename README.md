@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Akinpelu Favour! 👋
 
-<!--
-**27israel/27israel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Hybrid Engineer specializing in the **non-coding side of software engineering**. I work across UI/UX design, visual website development, automation, digital growth, and backend tools to turn ideas into practical digital solutions. I enjoy connecting design, technology, and automation to build useful and scalable experiences.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🎨 Design & Visual Development:**
+Figma • Framer • Silex • Spline • Framer Motion
+
+**⚙️ Automation & Backend:**
+n8n • Xano
+
+**🧰 Tools & Infrastructure:**
+Git • GitHub • Docker
+
+**📚 Currently Learning:**
+Cloud Engineering • Automation
+
+> **“The fear of the Lord is the beginning of wisdom.”** — Proverbs 9:10
+
+## 📫 Let's Connect
+
+* 🌐 [Portfolio](https://djisrael.framer.website/)
+* 💻 [GitHub](https://github.com/27israel)
+* 📩 [Email Me](mailto:Akinpeluisrael123@gmail.com)
