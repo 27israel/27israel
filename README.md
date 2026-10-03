@@ -4,17 +4,27 @@ I'm a Hybrid Engineer specializing in the **non-coding side of software engineer
 
 ## 🛠️ Tech Stack
 
-**🎨 Design & Visual Development:**
-Figma • Framer • Silex • Spline • Framer Motion
+### 🎨 Design & Visual Development
 
-**⚙️ Automation & Backend:**
-n8n • Xano
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,framer,spline" />
+</p>
 
-**🧰 Tools & Infrastructure:**
-Git • GitHub • Docker
+### ⚙️ Automation & Backend
 
-**📚 Currently Learning:**
-Cloud Engineering • Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=n8n,supabase" />
+</p>
+
+### 🧰 Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+</p>
+
+### 📚 Currently Learning
+
+Cloud Engineering • DevOps • Linux • Docker • Automation • Git/GitHub
 
 > **“The fear of the Lord is the beginning of wisdom.”** — Proverbs 9:10
 
