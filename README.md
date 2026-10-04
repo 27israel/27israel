@@ -1,6 +1,8 @@
 # Hi there, I'm Akinpelu Favour! 👋
 
-I'm a Hybrid Engineer specializing in the **non-coding side of software engineering**. I work across UI/UX design, visual website development, automation, digital growth, and backend tools to turn ideas into practical digital solutions. I enjoy connecting design, technology, and automation to build useful and scalable experiences.
+I'm a Hybrid Engineer specializing in the **non-coding side of software engineering**. I work across UI/UX design, visual website development, automation, and digital growth, with **foundational backend knowledge**. I'm also building skills in **Linux, command-line workflows, and cloud engineering**. I enjoy connecting design, technology, and automation to turn ideas into practical and useful digital solutions.
+
+
 
 ## 🛠️ Tech Stack
 
