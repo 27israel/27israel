@@ -6,7 +6,7 @@ I'm a Hybrid Engineer specializing in the **non-coding side of software engineer
 
 **🎨 Design:** Figma • Framer •
 
-🖥️ Visual Development:** Silex •
+🖥️ Visual Development: Silex •
 
 **✨ 3D & Motion:** Spline • Framer Motion •
 
